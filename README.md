@@ -14,18 +14,18 @@ The goal of this project is to examine differences in Bagrut scores between sect
 
 ### Distribution of Scores:
 
-Is the distribution is going right, left or it is normal? in other words, did the students in general pass the bagrut exams?
+* Is the distribution is going right, left or it is normal? in other words, did the students in general pass the bagrut exams?
 ### Differences Between Sectors and Denominatins:
 
-Are there significant differences in average Bagrut scores between sectors?
+* Are there significant differences in average Bagrut scores between sectors?
 ### Trends Over Time:
 
-Do Bagrut scores change over the years 2017-2019?
-Are these changes consistent across sectors and subjects denominations?
+* Do Bagrut scores change over the years 2017-2019?
+* Are these changes consistent across sectors and subjects denominations?
 ### Subject Performance:
 
-What is the top 10 subjects every sector and denomination attends?
-How do sectors and denominations differ in their scores for English, Math, and native language (Hebrew/Arabic)?
+* What is the top 10 subjects every sector and denomination attends?
+* How do sectors and denominations differ in their scores for English, Math, and native language (Hebrew/Arabic)?
 ## Tools and Techniques:
 The analysis will be done using Python, with libraries like Pandas, NumPy, Matplotlib, and Seaborn. I will use descriptive statistics and visualizations such as histogram plots, bar plots, heatmaps and more.
 
