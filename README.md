@@ -8,6 +8,7 @@ I used 3 files in "ציוני הבגרות לפי שנים":
 * 'התפלגות מספר נבחנים וממוצע ציון סופי לפי מוסד 2019.xlsx'
 * 'התפלגות מספר נבחנים וממוצע ציון סופי לפי מוסד 2018.xlsx'
 * 'התפלגות מספר נבחנים וממוצע ציון סופי לפי מוסד 2017.xlsx'
+
 The goal of this project is to examine differences in Bagrut scores between sectors and jewish dominations in Israel, identify trends in the education system over time and between subjects.
 
 ## Main Research Questions:
